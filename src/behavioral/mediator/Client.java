@@ -1,5 +1,13 @@
 package behavioral.mediator;
 
+/**
+ * 
+ * 中介者模式 Mediator Pattern
+ * 用一个中介对象来封装一系列的对象交互。中介者使各对象不需要显式的互相引用，降低耦合，而且可以独立的改变它们之间的交互。
+ * @author 彼得大帝
+ *
+ */
+
 public class Client {
 
 	public static void main(String[] args) {

@@ -1,5 +1,10 @@
 package behavioral.memento;
 
+/*
+ * Memento 备忘录
+ * 存储Originator对象的内部状态。
+ */
+
 public class GameMemento {
 	private int state;
 

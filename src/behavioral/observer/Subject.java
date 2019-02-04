@@ -1,5 +1,10 @@
 package behavioral.observer;
 
+/*
+ * Subject 主题或通知者
+ * 把所有对观察者对象的引用保存在一个list里，可以增加或删除观察者对象。
+ */
+
 import java.util.ArrayList;
 import java.util.List;
 

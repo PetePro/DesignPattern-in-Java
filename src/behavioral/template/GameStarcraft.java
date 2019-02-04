@@ -1,4 +1,4 @@
-package behavioral.templatemethod;
+package behavioral.template;
 
 public class GameStarcraft extends Game {
 

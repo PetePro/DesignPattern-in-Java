@@ -1,5 +1,10 @@
 package behavioral.command;
 
+/*
+ * Invoker
+ * 要求命令执行请求。
+ */
+
 import java.util.ArrayList;
 import java.util.List;
 

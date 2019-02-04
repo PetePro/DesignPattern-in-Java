@@ -1,5 +1,9 @@
 package behavioral.interpreter;
 
+/*
+ * NonterminalExpression 非终结符表达式
+ */
+
 public class SubExpression implements Expression {
 
 	private Expression expr1 = null;

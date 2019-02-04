@@ -1,5 +1,10 @@
 package structural.facade;
 
+/*
+ * Facade 外观类
+ * 将用户请求传给适当的子系统对象。
+ */
+
 public class Facade {
 	private Shape circle;
 	private Shape square;

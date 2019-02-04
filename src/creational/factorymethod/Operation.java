@@ -1,5 +1,10 @@
 package creational.factorymethod;
 
+/*
+ * Product 抽象产品
+ * 定义工厂方法所创建对象的接口。
+ */
+
 public abstract class Operation {
 	protected double _numberA = 0;
 	protected double _numberB = 0;

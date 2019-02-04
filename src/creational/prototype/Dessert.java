@@ -1,5 +1,10 @@
 package creational.prototype;
 
+/*
+ * Prototype 原型类
+ * 声明自Cloneable接口，关键是clone方法。
+ */
+
 public abstract class Dessert implements Cloneable {
 	protected String type;
 

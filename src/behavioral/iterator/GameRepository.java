@@ -1,5 +1,10 @@
 package behavioral.iterator;
 
+/*
+ * 实现于Container
+ * 类中有实现于Iterator的类种类，以此来封装内部行为。
+ */
+
 public class GameRepository implements Container {
 
 	public String names[] = { "World of Warcraft", "Diablo", "Starcraft", "HearthStone", "Heros of the Storm",

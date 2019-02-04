@@ -1,5 +1,10 @@
 package structural.composite;
 
+/*
+ * Composite 有枝节点行为
+ * 存储子部件
+ */
+
 import java.util.ArrayList;
 import java.util.List;
 

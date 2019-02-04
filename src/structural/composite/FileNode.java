@@ -1,5 +1,10 @@
 package structural.composite;
 
+/*
+ * Leaf 叶节点对象
+ * 叶节点无子节点。
+ */
+
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,5 +1,10 @@
 package creational.builder;
 
+/*
+ * Product 产品
+ * 由多个部件产品组成。
+ */
+
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,5 +1,10 @@
 package behavioral.visitor;
 
+/*
+ * ObjectStructure
+ * Ã¶¾ÙElement¶ÔÏó¡£
+ */
+
 import java.util.ArrayList;
 import java.util.List;
 

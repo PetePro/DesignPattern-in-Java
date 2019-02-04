@@ -1,5 +1,10 @@
 package behavioral.memento;
 
+/*
+ * Originator 发起人
+ * 创建Menmeto，记录和恢复状态。
+ */
+
 public class GameOriginator {
 	private int state;
 

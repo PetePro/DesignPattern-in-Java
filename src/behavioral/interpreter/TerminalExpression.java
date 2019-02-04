@@ -1,5 +1,9 @@
 package behavioral.interpreter;
 
+/*
+ * TerminalExpression 终结符表达式
+ */
+
 public class TerminalExpression implements Expression {
 
 	private int data;

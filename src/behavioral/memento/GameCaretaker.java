@@ -1,5 +1,10 @@
 package behavioral.memento;
 
+/*
+ * Caretaker 管理者
+ * 保存好Menmeto。
+ */
+
 public class GameCaretaker {
 	private GameMemento memento;
 

@@ -1,5 +1,9 @@
 package structural.composite;
 
+/*
+ * Component 组合对象的接口
+ */
+
 public abstract class Node {
 	protected String name;
 

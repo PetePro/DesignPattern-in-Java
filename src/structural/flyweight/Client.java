@@ -1,5 +1,13 @@
 package structural.flyweight;
 
+/**
+ * 
+ * 享元模式 Flyweight Pattern
+ * 运用共享技术有效支持大量细粒度的对象。
+ * @author 彼得大帝
+ *
+ */
+
 public class Client {
 
 	public static void main(String[] args) {

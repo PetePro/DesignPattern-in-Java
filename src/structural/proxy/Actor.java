@@ -1,5 +1,10 @@
 package structural.proxy;
 
+/*
+ * RealSubject 真实主题
+ * 真实实体，具体实现。
+ */
+
 public class Actor implements IAction {
 	private String name;
 

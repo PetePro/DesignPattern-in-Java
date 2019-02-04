@@ -1,5 +1,10 @@
 package structural.adapter;
 
+/*
+ * Adapter 适配器类
+ * 在内部包装Adaptee对象，把其接口转换成目标接口。
+ */
+
 public class MediaAdapter implements MediaPlayer {
 
 	AdvancedMediaPlayer advancedMusicPlayer;

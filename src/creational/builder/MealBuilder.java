@@ -1,5 +1,9 @@
 package creational.builder;
 
+/*
+ * Builder 建造者类
+ */
+
 public class MealBuilder {
 	public Meal prepareMeal_A() {
 		Meal meal = new Meal();

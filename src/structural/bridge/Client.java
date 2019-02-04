@@ -1,5 +1,13 @@
 package structural.bridge;
 
+/**
+ * 
+ * 桥接模式 Bridge Pattern
+ * 将抽象部分与他的实现部分分离，使他们都可以独立地变化。
+ * @author 彼得大帝
+ *
+ */
+
 public class Client {
 
 	public static void main(String[] args) {

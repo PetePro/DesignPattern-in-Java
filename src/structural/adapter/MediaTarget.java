@@ -1,5 +1,10 @@
 package structural.adapter;
 
+/*
+ * Target 目标
+ * 客户所期待的接口，包括默认可以实现的功能。
+ */
+
 public class MediaTarget implements MediaPlayer {
 
 	MediaAdapter mediaAdapter;

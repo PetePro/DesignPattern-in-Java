@@ -1,5 +1,10 @@
 package behavioral.state;
 
+/*
+ * Context 上下文
+ * 维护一个Concrete State子类的实例。
+ */
+
 public class Context {
 	private TCPState state;
 
